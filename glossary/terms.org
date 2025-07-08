@@ -1,0 +1,15 @@
+1) *Geocoding*: The process of converting addresses or place names into geographic coordinates
+2) *Reverse Geocoding*: Converting geographic coordinates back into human-readable addresses
+3) *Latitude*: The geographic coordinate that specifies north-south position on Earth
+4) *Longitude*: The geographic coordinate that specifies east-west position on Earth
+5) *API Endpoint*: A specific URL where an API can be accessed for particular functionality
+6) *Location Validation*: Verifying that user-provided location data is accurate and usable
+7) *Autocomplete*: A feature that provides suggestions as users type location names
+8) *Geocoding Service*: An online service that provides geocoding functionality via API
+9) *Location Search*: The process of finding and selecting geographic locations by name
+10) *Coordinate System*: A system for uniquely determining position on Earth's surface
+11) *Location Cache*: Storing previously looked-up location data to improve performance
+12) *Place Disambiguation*: Distinguishing between locations with similar names
+13) *Location History*: Keeping track of previously searched or selected locations
+14) *Geographic Boundaries*: Limits or extents of geographic areas for location searches
+15) *Location Preferences*: User-selected default locations and search settings

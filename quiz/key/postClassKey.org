@@ -1,0 +1,7 @@
+* Answer Key
+
+1. C) To convert human-readable location names into latitude/longitude coordinates  
+2. C) Providing autocomplete suggestions with intelligent error handling  
+3. C) It improves performance and reduces unnecessary API calls  
+4. C) Provide helpful error messages and suggestions for correction  
+5. C) By seamlessly converting location names to coordinates for weather requests  

@@ -1,0 +1,32 @@
+* After-Class Quiz: Geolocation and Weather Applications
+
+** What is the primary purpose of geocoding in weather applications?
+A) To encrypt location data for security  
+B) To compress GPS coordinates for storage  
+C) To convert human-readable location names into latitude/longitude coordinates  
+D) To calculate distances between weather stations  
+
+** Which approach provides the best user experience for location search?
+A) Requiring users to enter exact GPS coordinates  
+B) Only accepting major city names without any validation  
+C) Providing autocomplete suggestions with intelligent error handling  
+D) Making users select from a predetermined list of 50 cities  
+
+** Why is caching important in location services?
+A) It makes the application use more memory  
+B) It forces users to search more frequently  
+C) It improves performance and reduces unnecessary API calls  
+D) It prevents users from searching for new locations  
+
+** What should a location validation system do when it receives invalid input?
+A) Crash the application immediately  
+B) Ignore the input and show no feedback  
+C) Provide helpful error messages and suggestions for correction  
+D) Automatically redirect to a random valid location  
+
+** How should location services integrate with weather APIs?
+A) By requiring users to manually enter coordinates  
+B) By always using the same hardcoded location  
+C) By seamlessly converting location names to coordinates for weather requests  
+D) By making users choose between location search and weather data  
+

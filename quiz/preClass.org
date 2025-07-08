@@ -1,0 +1,31 @@
+* Weather Application Geolocation Quiz
+
+** What is geocoding in the context of weather applications?
+A) Encrypting location data for security  
+B) Compressing GPS coordinates to save space  
+C) Converting addresses or place names into geographic coordinates  
+D) Calculating distances between weather stations  
+
+** Which coordinate system is most commonly used for weather APIs?
+A) UTM coordinates  
+B) State plane coordinates  
+C) Latitude and longitude (decimal degrees)  
+D) Grid reference systems  
+
+** Why is location validation important in weather applications?
+A) To make the application run faster  
+B) To use less internet bandwidth  
+C) To ensure accurate weather data retrieval and good user experience  
+D) To comply with geographic regulations  
+
+** What should happen when a user enters an invalid city name?
+A) The application should crash with an error  
+B) Show weather for a random city instead  
+C) Provide helpful error messages and suggest corrections  
+D) Ignore the input and show no weather data  
+
+** Which feature would most improve user experience in location selection?
+A) Requiring users to enter exact coordinates  
+B) Only accepting major city names  
+C) Providing autocomplete suggestions as users type  
+D) Limiting searches to one country only  

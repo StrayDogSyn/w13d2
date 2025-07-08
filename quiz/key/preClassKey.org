@@ -1,0 +1,8 @@
+
+* Answer Key
+
+1. C) Converting addresses or place names into geographic coordinates  
+2. C) Latitude and longitude (decimal degrees)  
+3. C) To ensure accurate weather data retrieval and good user experience  
+4. C) Provide helpful error messages and suggest corrections  
+5. C) Providing autocomplete suggestions as users type  
